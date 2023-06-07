@@ -1,2 +1,0 @@
-smalljam.github.io
-==================
